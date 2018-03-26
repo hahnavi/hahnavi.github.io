@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+}
+
+.center-auto {
+    margin: 0 auto 0 auto;
+    text-align: center;
+}
+
+#photo-main {
+    width: 200px;
+    height: auto;
+}
