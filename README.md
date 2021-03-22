@@ -1,3 +1,3 @@
 # hahnavi.github.io
-Halaman utama
-http://hahnavi.me || https://hahnavi.github.io
+Main page
+http://hahnavi.my.id || https://hahnavi.github.io
